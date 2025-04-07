@@ -23,7 +23,6 @@ The dataset is in CSV format and contains various details of educational apps su
 - Rating
 - Reviews
 - Number of Installs
-- Size
 - Category
 
 ---
