@@ -1,5 +1,6 @@
  
-# Educational Apps Python Project
+# Analysis of Educational Apps Python Project
+
 
 ##  Project Title:
 **Educational Apps Analysis - A Python Project**
